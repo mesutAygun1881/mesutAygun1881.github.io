@@ -106,6 +106,20 @@ button:hover,
   
 }
 
+/* Patika */
+.button.button-patika {
+  color: #FFFFFF;
+  background-color: #24292e }
+.button.button-patika:hover{
+    border-radius: 10px;
+    border: 2px solid #FFFFFF;
+}
+.button.button-patika:focus 
+{
+  filter: brightness(90%) 
+  
+}
+
 /* Instagram */
 .button.button-instagram {
   color: #FFFFFF;
