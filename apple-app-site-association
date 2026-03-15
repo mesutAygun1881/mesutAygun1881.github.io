@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "J8B689A38K.com.mesutaygun.MotoSocial",
+        "paths": ["/motosocial-links/event/*"]
+      }
+    ]
+  }
+}
