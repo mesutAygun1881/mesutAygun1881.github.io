@@ -4,9 +4,8 @@
     "details": [
       {
         "appID": "J8B689A38K.com.mesutaygun.MotoSocial",
-        "paths": [ 
-            "/event/*" 
-        ]
+       "paths": ["/motosocial-links/event/*"]
+
       }
     ]
   }
